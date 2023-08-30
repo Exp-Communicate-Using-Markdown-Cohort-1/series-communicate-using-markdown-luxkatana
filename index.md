@@ -11,3 +11,5 @@ cout << "Hello World!" << endl;
 return 0;
 }
 ```
+- [x] Fixed main.py
+- [ ] ERROR on line 5 expected int got str
